@@ -3,14 +3,15 @@
 <head>
 <style>
   .sfondo-beige {backround-color: beige;}
-  
+  .giallo {background-color: yellow; color: red;}
+  .blu {backround-color: aqua; color: blue;}
 </style>
 </head>
   <body>
     <p class="sfondo-beige">
    Saturno <br>
-    il primo studio... ...Swedish Institute of Space physics,...
-    e dell'università dell'Iowa
+    il primo studio... ...<b class="giallo">Swedish Institute of Space physics</b>,...
+    e dell'<span class="blu">università dell'Iowa</span>
     sulle cause...
     SKR (Saturn Kilometric Radiation)
     </p>
